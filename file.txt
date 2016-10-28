@@ -1,1 +1,2 @@
 This is the first init text
+// Line from issue1
