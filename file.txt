@@ -1,5 +1,4 @@
 This is the first init text
-<<<<<<< HEAD
 // Line from issue1 (x3) (x4)
 // Line from issue2 and more ( edited )
 // Line from issue1 (edited)
