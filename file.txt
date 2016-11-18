@@ -2,3 +2,4 @@ This is the first init text
 // Line from issue1 (x3) (x4) (i2-x1) (i2-x2)
 // Line from issue2 and more ( edited )
 // Line from issue1 (edited)
+// Today Nov 18th 2016 20h:15
